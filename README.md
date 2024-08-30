@@ -27,9 +27,9 @@ To write a program to predict the profit of a city using the linear regression m
         * Calculate the errors by subtracting the actual target values (y) from the predictions.
         * Update the weights (theta) using the gradient descent update rule:
 
-            $$
-            \theta = \alpha\frac{1}{m}X^T(X\theta - y)
-            $$
+        $$
+        \theta = \alpha\frac{1}{m}X^T(X\theta - y)
+        $$
 
         where:
         * α is the learning rate.
@@ -41,7 +41,9 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 Program to implement the linear regression using gradient descent.
+
 Developed by: Roopak C S
+
 RegisterNumber: 212223220088 
 
 ```python
